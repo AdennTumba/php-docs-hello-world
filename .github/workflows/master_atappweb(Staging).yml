@@ -56,5 +56,5 @@
           with:
             app-name: 'atappweb'
             slot-name: 'Staging'
-            publish-profile: ${{ secrets.AzureAppService_PublishProfile_4785782b21724deabb8e5b339f5efb4c }}
+            publish-profile: ${{ secrets.AzureAppService_PublishProfile_f541629c68b4489cb285c3bd18a49a1b }}
             package: .
